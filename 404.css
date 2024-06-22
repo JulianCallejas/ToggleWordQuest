@@ -1,0 +1,145 @@
+*::-webkit-scrollbar-track {
+    background-color: #F5F5F5;
+    border-radius: 10px;
+    transform: translateX(-20px);
+
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+}
+
+*::-webkit-scrollbar {
+    background-color: #F5F5F5;
+    transform: translateX(-20px);
+    width: 12px;
+}
+
+*::-webkit-scrollbar-thumb {
+    background-color: #555;
+    border-radius: 10px;
+    transform: translateX(-20px);
+
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, .3);
+}
+
+
+body{
+    background: #140c25;
+    color: rgb(224, 223, 223);
+    font-family: "Roboto", sans-serif;
+    letter-spacing: 1px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    animation: backgound-color-animation 33s linear infinite;
+}
+
+@keyframes backgound-color-animation{
+    0%,56%{background-color: #140c25;}
+    57.5%,100%{background-color: #0078c1;}
+}
+
+.main-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width:  100vw;
+    height: 100vh;
+    
+}
+
+.content-container{
+    max-width: 1440px;
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+.video-container{
+    width: calc(min(60vh, 60vw));
+    position: relative;
+    
+}
+
+.video{
+    width: 100%;
+}
+
+.video-overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 5;
+    backdrop-filter: blur(0px);
+    filter: url(#waves0);
+    animation: filter-animation 15s linear infinite;
+}
+
+
+@keyframes filter-animation{
+    0%, 80%{
+        backdrop-filter: blur(0px);
+        filter: url(#waves0);
+    }
+    10%, 70%{
+        filter: url(#waves5);
+    }
+    20%, 60%{
+        filter: url(#waves10);
+    }
+    30%, 50%{
+        filter: url(#waves15);
+    }
+    40%{
+        filter: url(#waves20);
+    }
+}
+
+
+h1{
+    font-weight: 300;
+    letter-spacing: 2px;
+}
+
+.twq-btn{
+    text-decoration: none;
+    border-radius: 12px;
+    width: calc(min(60vh, 60vw));
+    padding: 20px 0px;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    transition: all 0.3s ease;
+    animation: color-animation 33s linear infinite ;
+}
+
+.twq-btn:hover{
+    transform: scale(1.1);
+}
+
+@keyframes color-animation {
+    0%,56%{
+        background-color: #ea38a3;
+        color: white;
+    }
+    57.5%,100%{
+        background-color:  #f59926;
+        color: white;
+    }
+}
+
+
+footer{
+    position: static;
+    bottom: 20px;
+    padding: 20px 0;
+    text-align: center;
+}
+
+footer a{
+    color: #f59926;
+}
