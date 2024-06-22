@@ -1,0 +1,198 @@
+{
+    "background_color": "#1f1f1f",
+    "categories": ["games"],
+    "description": "Toggle Word Quest is an engaging word search game where players can challenge themselves with various board sizes and levels. Explore hidden words in horizontal, vertical, and diagonal directions across 7x7, 10x10, and 15x15 boards. Enjoy hours of fun as you toggle letters and race against the clock to find all the words!...  Developed by { jc - develop }",
+    "dir": "ltr",
+    "display_override": ["standalone", "fullscreen"],
+    "display": "standalone",
+    "icons": [ 
+      {
+        "src": "twq-logo-16.png",
+        "type": "image/png",
+        "sizes": "16x16",
+        "purpose": "any"
+      },
+      {
+        "src": "twq-logo-20.png",
+        "type": "image/png",
+        "sizes": "20x20",
+        "purpose": "any"
+      },
+      {
+        "src": "twq-logo-29.png",
+        "type": "image/png",
+        "sizes": "29x29",
+        "purpose": "any"
+      },
+      {
+        "src": "twq-logo-32.png",
+        "type": "image/png",
+        "sizes": "32x32",
+        "purpose": "any"
+      },
+      {
+        "src": "twq-logo-40.png",
+        "type": "image/png",
+        "sizes": "40x40",
+        "purpose": "any"
+      },
+      {
+        "src": "twq-logo-48.png",
+        "type": "image/png",
+        "sizes": "48x48",
+        "purpose": "any"
+      },
+      {
+        "src": "twq-logo-50.png",
+        "type": "image/png",
+        "sizes": "50x50",
+        "purpose": "maskable"
+      },
+      {
+        "src": "twq-logo-57.png",
+        "type": "image/png",
+        "sizes": "57x57",
+        "purpose": "any"
+      },
+      {
+        "src": "twq-logo-58.png",
+        "type": "image/png",
+        "sizes": "58x58",
+        "purpose": "any"
+      },
+      {
+        "src": "twq-logo-60.png",
+        "type": "image/png",
+        "sizes": "60x60",
+        "purpose": "any"
+      },
+      {
+        "src": "twq-logo-64.png",
+        "type": "image/png",
+        "sizes": "64x64",
+        "purpose": "any"
+      },
+      {
+        "src": "twq-logo-72.png",
+        "type": "image/png",
+        "sizes": "72x72",
+        "purpose": "any"
+      },
+      {
+        "src": "twq-logo-76.png",
+        "type": "image/png",
+        "sizes": "76x76",
+        "purpose": "any"
+      },
+      {
+        "src": "twq-logo-80.png",
+        "type": "image/png",
+        "sizes": "80x80",
+        "purpose": "any"
+      },
+      {
+        "src": "twq-logo-87.png",
+        "type": "image/png",
+        "sizes": "87x87",
+        "purpose": "any"
+      },
+      {
+        "src": "twq-logo-96.png",
+        "type": "image/png",
+        "sizes": "96x96",
+        "purpose": "maskable"
+      },
+      {
+        "src": "twq-logo-100.png",
+        "type": "image/png",
+        "sizes": "100x100",
+        "purpose": "any"
+      },
+      {
+        "src": "twq-logo-114.png",
+        "type": "image/png",
+        "sizes": "114x114",
+        "purpose": "any"
+      },
+      {
+        "src": "twq-logo-120.png",
+        "type": "image/png",
+        "sizes": "120x120",
+        "purpose": "any"
+      },
+      {
+        "src": "twq-logo-128.png",
+        "type": "image/png",
+        "sizes": "128x128",
+        "purpose": "any"
+      },
+      {
+        "src": "twq-logo-144.png",
+        "type": "image/png",
+        "sizes": "144x144",
+        "purpose": "any"
+      },
+      {
+        "src": "twq-logo-152.png",
+        "type": "image/png",
+        "sizes": "152x152",
+        "purpose": "maskable"
+      },
+      {
+        "src": "twq-logo-167.png",
+        "type": "image/png",
+        "sizes": "167x167",
+        "purpose": "any"
+      },
+      {
+        "src": "twq-logo-180.png",
+        "type": "image/png",
+        "sizes": "180x180",
+        "purpose": "any"
+      },
+      {
+        "src": "twq-logo-192.png",
+        "type": "image/png",
+        "sizes": "192x192",
+        "purpose": "any"
+      },
+      {
+        "src": "twq-logo-256.png",
+        "type": "image/png",
+        "sizes": "256x256",
+        "purpose": "any"
+      },
+      {
+        "src": "twq-logo-512.png",
+        "type": "image/png",
+        "sizes": "512x512",
+        "purpose": "any"
+      },
+      {
+        "src": "twq-logo-1024.png",
+        "type": "image/png",
+        "sizes": "1024x1024",
+        "purpose": "any"
+      }
+    ],
+    "lang": "en-US",
+    "name": "Toggle Word Quest",
+    "orientation": "portrait",
+    "prefer_related_application": false,
+    "scope": "/",
+    "screenshots":[
+        {
+            "src": "https://res.cloudinary.com/dphleqb5t/image/upload/v1713152268/twq/twq-social2b-min_vr5fk3.jpg",
+            "type": "image/png",
+            "sizes": "1200x630"
+        },
+        {
+            "src": "https://res.cloudinary.com/dphleqb5t/image/upload/v1713152268/twq/twq-social2b-min_vr5fk3.jpg",
+            "type": "image/png",
+            "sizes": "1200x630"
+        }
+    ],
+    "short_name": "TWQ",
+    "start_url": "https://playtwq.com/?mode=pwa",
+    "theme_color": "#140c25"
+  }
