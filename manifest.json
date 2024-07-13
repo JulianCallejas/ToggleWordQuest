@@ -166,7 +166,7 @@
         "src": "twq-logo-512.png",
         "type": "image/png",
         "sizes": "512x512",
-        "purpose": "any"
+        "purpose": "maskable"
       },
       {
         "src": "twq-logo-1024.png",
@@ -187,12 +187,12 @@
             "sizes": "1200x630"
         },
         {
-            "src": "https://res.cloudinary.com/dphleqb5t/image/upload/v1713152268/twq/twq-social2b-min_vr5fk3.jpg",
+            "src": "https://res.cloudinary.com/dphleqb5t/image/upload/v1713152268/twq/twq-social1-min_exlfca.jpg",
             "type": "image/png",
             "sizes": "1200x630"
         }
     ],
     "short_name": "TWQ",
     "start_url": "https://playtwq.com/?mode=pwa",
-    "theme_color": "#140c25"
+    "theme_color": "#1f1f1f"
   }
