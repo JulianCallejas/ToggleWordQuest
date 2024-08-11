@@ -19,6 +19,12 @@ Toggle Word Quest es un apasionante juego de búsqueda de palabras en el que los
 [Haz clic aquí para jugar Toggle Word Quest](https://playtwq.com) 
 
 
+<p align="center">
+<img src="https://res.cloudinary.com/dphleqb5t/image/upload/v1723326163/twq/Social_Network_1_iimwph.webp"  title="JChat sample gif" alt="JChat sample gif" >
+</p>
+
+
+
 |<p align="center"> Light theme </p> |<p align="center"> Dark theme </p> |
 | --- | --- |
-| <img src="https://res.cloudinary.com/dphleqb5t/image/upload/v1713152268/twq/twq-social1-min_exlfca.jpg"  title="JChat screenshot 1" alt="JChat screenshot 1" > | <img src="https://res.cloudinary.com/dphleqb5t/image/upload/v1713152268/twq/twq-social2b-min_vr5fk3.jpg"  title="JChat screenshot 1" alt="JChat screenshot 1" > |
+| <img src="https://res.cloudinary.com/dphleqb5t/image/upload/v1713152268/twq/twq-social1-min_exlfca.jpg"  title="Toggle Word Quest light theme" alt="Toggle Word Quest light theme" > | <img src="https://res.cloudinary.com/dphleqb5t/image/upload/v1713152268/twq/twq-social2b-min_vr5fk3.jpg"  title="Toggle Word Quest dark theme" alt="Toggle Word Quest dark theme" > | 
